@@ -1,7 +1,7 @@
 mihomo:
-  token: C5BA12A9-7DDC-4D23-B7AA-52CFA323D3C8
+  token: your_token_here
   subs:
-    - name: "Fancy"
+    - name: "Main"
       url: https://xxxx
-    - name: "liangxin"
+    - name: "Backup"
       url: https://xxxx
